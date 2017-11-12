@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Sun Nov 12 10:56:11 2017
+# Process ID: 11840
+# Current directory: D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.sim/sim_1/behav/xsim.dir/test_des_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.sim/sim_1/behav/webtalk.log
+# Journal file: D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.sim/sim_1/behav/xsim.dir/test_des_behav/webtalk/xsim_webtalk.tcl -notrace

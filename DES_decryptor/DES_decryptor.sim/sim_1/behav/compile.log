@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.srcs/sources_1/new/DES_de.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DES_de
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.srcs/sources_1/new/urn_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module urn_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.srcs/sim_1/new/test_des.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_des
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/documents/Vivado_projects/DES_decryptor/DES_decryptor.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
